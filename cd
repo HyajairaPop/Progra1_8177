@@ -1,0 +1,11 @@
+[1mdiff --git a/Texto1.txt b/Texto1.txt[m
+[1mindex 7293459..ec72392 100644[m
+[1m--- a/Texto1.txt[m
+[1m+++ b/Texto1.txt[m
+[36m@@ -1,2 +1,3 @@[m
+ Estoy empezando a utilizar Git[m
+[31m-Esta es una segunda linea [m
+\ No newline at end of file[m
+[32m+[m[32mEsta es una segunda linea[m[41m [m
+[32m+[m[32mEsta es la tercera linea de codigo[m[41m [m
+\ No newline at end of file[m
